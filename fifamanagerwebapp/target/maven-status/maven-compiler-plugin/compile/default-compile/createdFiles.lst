@@ -1,0 +1,4 @@
+com/ephec/sgbd/config/TestDeConnection.class
+com/ephec/sgbd/config/WebConfig.class
+com/ephec/sgbd/config/WellAppInitializer.class
+com/ephec/sgbd/controller/HomeController.class

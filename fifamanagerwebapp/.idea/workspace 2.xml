@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="fifamanagerwebapp:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a706e3a0-7f8f-407e-a1c6-8b850000cac8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../fifaman/src/main/webapp/WEB-INF/view/headercon.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifaman/src/main/webapp/WEB-INF/view/headerlogged.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifaman/src/main/webapp/WEB-INF/view/headerpublic.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifaman/src/main/webapp/WEB-INF/view/home 2.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifaman/src/main/webapp/WEB-INF/view/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/config/TestDeConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/controller/HomeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analyse sgbd.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fifaman/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/src/main/webapp/WEB-INF/view/footer.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../fifaman/src/main/webapp/WEB-INF/view/footer.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/src/main/webapp/WEB-INF/view/home.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/../fifaman/src/main/webapp/WEB-INF/view/home.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/conf/tomcat-users 3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/META-INF/MANIFEST 3.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/META-INF/maven/com.ephec.sgbd/fifaman/pom 3.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/META-INF/maven/com.ephec.sgbd/fifaman/pom 3.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/config/TestDeConnection 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/config/TestDeConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/config/TestDeConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/controller/AdminController 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/controller/HomeController 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/controller/HomeController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/controller/HomeController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/entity/ChampionnatEntityInterface 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/model/Admin 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/model/Equipe 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/model/Joueur 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/service/EquipeService 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/service/EquipeServiceImpl 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/service/HomeService 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/service/HomeServiceImpl 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/util/AttributeNames 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/classes/com/ephec/sgbd/util/Mappings 3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/FastInfoset-1.2.15 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/antlr-2.7.7 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/hibernate-core-5.4.12.Final 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/istack-commons-runtime-3.0.7 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/jandex-2.1.1.Final 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/javassist-3.24.0-GA 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/javax.activation-api-1.2.0 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/javax.annotation-api-1.3.2 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/javax.persistence-api-2.2 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/jaxb-api-2.3.1 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/jaxb-runtime-2.3.1 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/jstl-1.2 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/logback-classic-1.2.3 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/logback-core-1.2.3 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/protobuf-java-3.6.1 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/slf4j-api-1.7.25 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/spring-aop-5.2.4.RELEASE 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/spring-beans-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/spring-expression-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/spring-jcl-5.2.4.RELEASE 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/spring-web-5.2.4.RELEASE 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/spring-webmvc-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/stax-ex-1.8 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/lib/txw2-2.3.1 3.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/view/equipes 2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/cargo/configurations/tomcat9x/webapps/fifaman/WEB-INF/view/footer 3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/config/TestDeConnection 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/config/WebConfig 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/config/WellAppInitializer 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/controller/AdminController 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/controller/ChampionnatController 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/controller/HomeController 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/entity/ChampionnatEntityInterface 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/model/Admin 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/model/Championnat 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/model/Equipe 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/model/Joueur 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/service/EquipeService 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/service/EquipeServiceImpl 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/service/HomeService 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/service/HomeServiceImpl 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/util/AttributeNames 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/util/Mappings 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/com/ephec/sgbd/util/ViewNames 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/classes/logback 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT 2.war" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/config/TestDeConnection 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/config/WebConfig 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/config/WellAppInitializer 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/controller/AdminController 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/controller/ChampionnatController 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/controller/HomeController 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/entity/ChampionnatEntityInterface 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/model/Admin 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/model/Championnat 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/model/Equipe 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/model/Joueur 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/service/EquipeService 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/service/EquipeServiceImpl 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/service/HomeService 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/service/HomeServiceImpl 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/util/AttributeNames 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/util/Mappings 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/util/ViewNames 2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/classes/logback 2.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/FastInfoset-1.2.15 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/antlr-2.7.7 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/byte-buddy-1.10.7 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/classmate-1.5.1 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/dom4j-2.1.1 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.1.0.Final 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/hibernate-core-5.4.12.Final 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/istack-commons-runtime-3.0.7 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/jandex-2.1.1.Final 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/javassist-3.24.0-GA 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/javax.activation-api-1.2.0 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/javax.annotation-api-1.3.2 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/javax.persistence-api-2.2 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/jaxb-api-2.3.1 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/jaxb-runtime-2.3.1 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.2.Final 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/jboss-transaction-api_1.2_spec-1.1.1.Final 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/jstl-1.2 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/logback-classic-1.2.3 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/logback-core-1.2.3 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/lombok-1.18.12 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.19 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.6.1 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.2.4.RELEASE 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/stax-ex-1.8 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/lib/txw2-2.3.1 2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/view/equipes 2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/view/footer 2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/view/header 2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/fifaman-1.0-SNAPSHOT/WEB-INF/view/tb 2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/maven-archiver/pom 2.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles 2.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles 2.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../fifaman/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles 2.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifaman/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles 2.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanager.bmpr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanager/out/artifacts/fifamanager_war_exploded/WEB-INF/resources/images/chris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanager/out/artifacts/fifamanager_war_exploded/resources/images/chris 2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanager/src/main/webapp/WEB-INF/resources/images/chris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanager/target/fifamanager-1.0.0/resources/images/chris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/api/ChampionnatController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/api/ChampionnatController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/api/EquipeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/api/EquipeController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/api/JoueurController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/api/JoueurController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/api/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/api/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/dao/ChampionnatDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entityservice/ChampionnatDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/dao/ChampionnatDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entityservice/ChampionnatDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/dao/EquipeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entityservice/EquipeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/dao/EquipeDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entityservice/EquipeDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/dao/JoueurDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entityservice/JoueurDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/dao/JoueurDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entityservice/JoueurDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entityservice/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/dao/UserDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entityservice/UserDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entity/Buts.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/model/Buts.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entity/Championnat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/model/Championnat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entity/Classement.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/model/Classement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entity/Equipe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/model/Equipe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entity/Joueur.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/model/Joueur.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entity/Match.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/model/Match.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entity/Resultat.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/model/Resultat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entity/Sanction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/model/Sanction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entity/Semestre.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/model/Semestre.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/model/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/service/ChampionnatService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/taskservice/ChampionnatService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/service/ChampionnatServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/taskservice/ChampionnatServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/service/EquipeService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/taskservice/EquipeService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/service/EquipeServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/taskservice/EquipeServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/service/JoueurService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/taskservice/JoueurService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/service/JoueurServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/taskservice/JoueurServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/taskservice/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/service/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/taskservice/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../fifamanagerRestApi/src/main/java/com/smc/fifa/utils/Constants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ephec/sgbd/config/WebConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/ephec/sgbd/config/WebConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ephec/sgbd/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/ephec/sgbd/config/WebConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fifamanagerwebapp-1.0-SNAPSHOT.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/fifamanagerwebapp-1.0-SNAPSHOT.war" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/fifamanagerwebapp-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/config/WebConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/fifamanagerwebapp-1.0-SNAPSHOT/WEB-INF/classes/com/ephec/sgbd/config/WebConfig.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1bixY4yfHF9PEB2h7oY38jLAi0J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.preview.features.used" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/view" />
+      <recent name="$PROJECT_DIR$/src/main/webapp" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ephec.sgbd.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/com/ephec/sgbd/" />
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/view" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Tomcat 8">
+    <configuration name="Tomcat 8" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="fifamanagerwebapp:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/fifamanager" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_fifamanagerwebapp" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51880" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="fifamanagerwebapp:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="index.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/index.jsp" />
+      <deployment>
+        <artifact name="fifamanagerwebapp:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/fifamanagerwebapp_war" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="index_jsp_fifamanagerwebapp" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="fifamanagerwebapp:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat 8" />
+      <item itemvalue="Tomcat Server.index.jsp" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.index.jsp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a706e3a0-7f8f-407e-a1c6-8b850000cac8" name="Default Changelist" comment="" />
+      <created>1589128759187</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589128759187</updated>
+      <workItem from="1589128760601" duration="4603000" />
+      <workItem from="1589142166409" duration="1625000" />
+      <workItem from="1593337344371" duration="3797000" />
+      <workItem from="1593352559373" duration="288000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="130" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593337538772">
+      <screen x="0" y="23" width="1280" height="744" />
+    </state>
+    <state x="130" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.742@0.23.1280.742" timestamp="1589133365314" />
+    <state x="130" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.743@0.23.1280.743" timestamp="1589132094310" />
+    <state x="130" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.744@0.23.1280.744" timestamp="1593337538772" />
+    <state x="388" y="23" width="554" height="742" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable" timestamp="1593337420639">
+      <screen x="0" y="23" width="1280" height="744" />
+    </state>
+    <state x="388" y="23" width="554" height="742" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.23.1280.742@0.23.1280.742" timestamp="1589133357012" />
+    <state x="388" y="23" key="#com.intellij.j2ee.appServerIntegrations.ApplicationServersConfigurable/0.23.1280.744@0.23.1280.744" timestamp="1593337420639" />
+    <state x="387" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1589131890582">
+      <screen x="0" y="23" width="1280" height="743" />
+    </state>
+    <state x="387" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.743@0.23.1280.743" timestamp="1589131890582" />
+    <state width="810" height="177" key="GridCell.Tab.0.bottom" timestamp="1593342589053">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.0.bottom/0.23.1280.742@0.23.1280.742" timestamp="1589133393517" />
+    <state width="810" height="177" key="GridCell.Tab.0.bottom/0.23.1280.743@0.23.1280.743" timestamp="1589132760594" />
+    <state width="810" height="177" key="GridCell.Tab.0.bottom/0.23.1280.744@0.23.1280.744" timestamp="1593337705502" />
+    <state width="810" height="177" key="GridCell.Tab.0.bottom/0.23.1280.747@0.23.1280.747" timestamp="1593342589053" />
+    <state width="810" height="177" key="GridCell.Tab.0.center" timestamp="1593342589052">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.0.center/0.23.1280.742@0.23.1280.742" timestamp="1589133393516" />
+    <state width="810" height="177" key="GridCell.Tab.0.center/0.23.1280.743@0.23.1280.743" timestamp="1589132760593" />
+    <state width="810" height="177" key="GridCell.Tab.0.center/0.23.1280.744@0.23.1280.744" timestamp="1593337705502" />
+    <state width="810" height="177" key="GridCell.Tab.0.center/0.23.1280.747@0.23.1280.747" timestamp="1593342589052" />
+    <state width="810" height="177" key="GridCell.Tab.0.left" timestamp="1593342589052">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.0.left/0.23.1280.742@0.23.1280.742" timestamp="1589133393516" />
+    <state width="810" height="177" key="GridCell.Tab.0.left/0.23.1280.743@0.23.1280.743" timestamp="1589132760592" />
+    <state width="810" height="177" key="GridCell.Tab.0.left/0.23.1280.744@0.23.1280.744" timestamp="1593337705501" />
+    <state width="810" height="177" key="GridCell.Tab.0.left/0.23.1280.747@0.23.1280.747" timestamp="1593342589052" />
+    <state width="810" height="177" key="GridCell.Tab.0.right" timestamp="1593342589053">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.0.right/0.23.1280.742@0.23.1280.742" timestamp="1589133393516" />
+    <state width="810" height="177" key="GridCell.Tab.0.right/0.23.1280.743@0.23.1280.743" timestamp="1589132760593" />
+    <state width="810" height="177" key="GridCell.Tab.0.right/0.23.1280.744@0.23.1280.744" timestamp="1593337705502" />
+    <state width="810" height="177" key="GridCell.Tab.0.right/0.23.1280.747@0.23.1280.747" timestamp="1593342589053" />
+    <state width="810" height="177" key="GridCell.Tab.1.bottom" timestamp="1593342589057">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.1.bottom/0.23.1280.742@0.23.1280.742" timestamp="1589133393518" />
+    <state width="810" height="177" key="GridCell.Tab.1.bottom/0.23.1280.743@0.23.1280.743" timestamp="1589132760244" />
+    <state width="810" height="177" key="GridCell.Tab.1.bottom/0.23.1280.744@0.23.1280.744" timestamp="1593337705505" />
+    <state width="810" height="177" key="GridCell.Tab.1.bottom/0.23.1280.747@0.23.1280.747" timestamp="1593342589057" />
+    <state width="810" height="177" key="GridCell.Tab.1.center" timestamp="1593342589057">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.1.center/0.23.1280.742@0.23.1280.742" timestamp="1589133393518" />
+    <state width="810" height="177" key="GridCell.Tab.1.center/0.23.1280.743@0.23.1280.743" timestamp="1589132760243" />
+    <state width="810" height="177" key="GridCell.Tab.1.center/0.23.1280.744@0.23.1280.744" timestamp="1593337705504" />
+    <state width="810" height="177" key="GridCell.Tab.1.center/0.23.1280.747@0.23.1280.747" timestamp="1593342589057" />
+    <state width="810" height="177" key="GridCell.Tab.1.left" timestamp="1593342589056">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.1.left/0.23.1280.742@0.23.1280.742" timestamp="1589133393517" />
+    <state width="810" height="177" key="GridCell.Tab.1.left/0.23.1280.743@0.23.1280.743" timestamp="1589132760243" />
+    <state width="810" height="177" key="GridCell.Tab.1.left/0.23.1280.744@0.23.1280.744" timestamp="1593337705504" />
+    <state width="810" height="177" key="GridCell.Tab.1.left/0.23.1280.747@0.23.1280.747" timestamp="1593342589056" />
+    <state width="810" height="177" key="GridCell.Tab.1.right" timestamp="1593342589057">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.1.right/0.23.1280.742@0.23.1280.742" timestamp="1589133393518" />
+    <state width="810" height="177" key="GridCell.Tab.1.right/0.23.1280.743@0.23.1280.743" timestamp="1589132760243" />
+    <state width="810" height="177" key="GridCell.Tab.1.right/0.23.1280.744@0.23.1280.744" timestamp="1593337705505" />
+    <state width="810" height="177" key="GridCell.Tab.1.right/0.23.1280.747@0.23.1280.747" timestamp="1593342589057" />
+    <state width="810" height="177" key="GridCell.Tab.2.bottom" timestamp="1593342589056">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.2.bottom/0.23.1280.742@0.23.1280.742" timestamp="1589133393520" />
+    <state width="810" height="177" key="GridCell.Tab.2.bottom/0.23.1280.743@0.23.1280.743" timestamp="1589132760245" />
+    <state width="810" height="177" key="GridCell.Tab.2.bottom/0.23.1280.744@0.23.1280.744" timestamp="1593337705507" />
+    <state width="810" height="177" key="GridCell.Tab.2.bottom/0.23.1280.747@0.23.1280.747" timestamp="1593342589056" />
+    <state width="810" height="177" key="GridCell.Tab.2.center" timestamp="1593342589054">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.2.center/0.23.1280.742@0.23.1280.742" timestamp="1589133393519" />
+    <state width="810" height="177" key="GridCell.Tab.2.center/0.23.1280.743@0.23.1280.743" timestamp="1589132760244" />
+    <state width="810" height="177" key="GridCell.Tab.2.center/0.23.1280.744@0.23.1280.744" timestamp="1593337705506" />
+    <state width="810" height="177" key="GridCell.Tab.2.center/0.23.1280.747@0.23.1280.747" timestamp="1593342589054" />
+    <state width="810" height="177" key="GridCell.Tab.2.left" timestamp="1593342589054">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.2.left/0.23.1280.742@0.23.1280.742" timestamp="1589133393519" />
+    <state width="810" height="177" key="GridCell.Tab.2.left/0.23.1280.743@0.23.1280.743" timestamp="1589132760244" />
+    <state width="810" height="177" key="GridCell.Tab.2.left/0.23.1280.744@0.23.1280.744" timestamp="1593337705506" />
+    <state width="810" height="177" key="GridCell.Tab.2.left/0.23.1280.747@0.23.1280.747" timestamp="1593342589054" />
+    <state width="810" height="177" key="GridCell.Tab.2.right" timestamp="1593342589055">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.2.right/0.23.1280.742@0.23.1280.742" timestamp="1589133393519" />
+    <state width="810" height="177" key="GridCell.Tab.2.right/0.23.1280.743@0.23.1280.743" timestamp="1589132760245" />
+    <state width="810" height="177" key="GridCell.Tab.2.right/0.23.1280.744@0.23.1280.744" timestamp="1593337705506" />
+    <state width="810" height="177" key="GridCell.Tab.2.right/0.23.1280.747@0.23.1280.747" timestamp="1593342589055" />
+    <state width="810" height="177" key="GridCell.Tab.3.bottom" timestamp="1593342136885">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.3.bottom/0.23.1280.744@0.23.1280.744" timestamp="1593337705509" />
+    <state width="810" height="177" key="GridCell.Tab.3.bottom/0.23.1280.747@0.23.1280.747" timestamp="1593342136885" />
+    <state width="810" height="177" key="GridCell.Tab.3.center" timestamp="1593342136885">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.3.center/0.23.1280.744@0.23.1280.744" timestamp="1593337705507" />
+    <state width="810" height="177" key="GridCell.Tab.3.center/0.23.1280.747@0.23.1280.747" timestamp="1593342136885" />
+    <state width="810" height="177" key="GridCell.Tab.3.left" timestamp="1593342136884">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.3.left/0.23.1280.744@0.23.1280.744" timestamp="1593337705507" />
+    <state width="810" height="177" key="GridCell.Tab.3.left/0.23.1280.747@0.23.1280.747" timestamp="1593342136884" />
+    <state width="810" height="177" key="GridCell.Tab.3.right" timestamp="1593342136885">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state width="810" height="177" key="GridCell.Tab.3.right/0.23.1280.744@0.23.1280.744" timestamp="1593337705508" />
+    <state width="810" height="177" key="GridCell.Tab.3.right/0.23.1280.747@0.23.1280.747" timestamp="1593342136885" />
+    <state x="167" y="43" key="SettingsEditor" timestamp="1589129565196">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="167" y="43" key="SettingsEditor/0.23.1280.742@0.23.1280.742" timestamp="1589129565196" />
+    <state x="0" y="96" key="new project wizard" timestamp="1593340469176">
+      <screen x="0" y="23" width="1280" height="747" />
+    </state>
+    <state x="0" y="96" key="new project wizard/0.23.1280.747@0.23.1280.747" timestamp="1593340469176" />
+    <state x="330" y="184" width="670" height="675" key="run.anything.popup" timestamp="1589132923266">
+      <screen x="0" y="23" width="1280" height="742" />
+    </state>
+    <state x="330" y="184" width="670" height="675" key="run.anything.popup/0.23.1280.742@0.23.1280.742" timestamp="1589132923266" />
+    <state x="330" y="184" width="670" height="676" key="run.anything.popup/0.23.1280.743@0.23.1280.743" timestamp="1589132657177" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ephec/sgbd/controller/HomeController.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ephec/sgbd/config/WellAppInitializer.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/ephec/sgbd/config/WebConfig.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

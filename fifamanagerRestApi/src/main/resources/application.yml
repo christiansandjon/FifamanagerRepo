@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:mysql://localhost:3306/fifarestapi?serverTimezone=UTC
+    username: root
+    password: root
+    pool-size: 30
